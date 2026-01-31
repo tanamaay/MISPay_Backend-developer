@@ -282,5 +282,3 @@ The Scheduler Microservice is **designed for scalability** with:
 | DB Connections | 20 | 200 |
 | Memory | 200MB | 2GB |
 
-**Status**: ✅ Ready for horizontal scaling with Redis integration
-
